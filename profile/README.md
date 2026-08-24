@@ -37,13 +37,13 @@ Halios is built around a **coding-agent-led workflow**. Instead of stitching tog
 
 ---
 
-## 🛠️ Open-Source Ecosystem
+## 🛠️ Open-Source
 
 | Repository | Description |
 | :--- | :--- |
 | [**`HaliosAI/halios`**](https://github.com/HaliosAI/halios) | The `halios` CLI and universal Agent Skill for configuring, simulating, and evaluating AI agents from any coding harness. |
 | [**`HaliosAI/sample-agents`**](https://github.com/HaliosAI/sample-agents) | Curated open-source sample agents (e.g. `demo-shopper-agent`) designed for benchmarking and multi-turn evaluation. |
-| [**`HaliosAI/haliosai-python-sdk`**](https://github.com/HaliosAI/haliosai-python-sdk) | Async Python client for inline guardrails, trace inspection, and programmatic evaluation runs. |
+| [**`HaliosAI/haliosai-python-sdk`**](https://github.com/HaliosAI/haliosai-python-sdk) | Lightweight Python client for inline guardrails, trace inspection, and programmatic evaluation runs. |
 
 ---
 
