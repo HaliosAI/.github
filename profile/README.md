@@ -6,6 +6,7 @@
 # HaliosAI
 
 **Evals for any agent in minutes.**
+</div>
 
 Halios brings evals to your coding agent. Add the open-source Halios skill to **Codex**, **Claude Code**, **Cursor**, or another coding agent, then create scenarios, run fresh multi-turn trials, investigate failures, and verify improvements from your development workflow.
 
